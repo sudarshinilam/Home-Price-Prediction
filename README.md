@@ -52,5 +52,5 @@ scikit-learn
 
 🧑‍💻 Author
 Nilam Sudarshi
-GitHub: @yourusername
-Project Repository: home-price-prediction
+GitHub: [@sudarshinilam](https://github.com/sudarshinilam)
+Project Repository: [home-price-prediction](https://github.com/sudarshinilam/Home-Price-Prediction)
